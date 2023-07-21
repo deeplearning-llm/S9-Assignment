@@ -42,6 +42,9 @@ The CNN is trained for 120 Epochs and the following metrics is observed :
           
 ### Learning Curves
 
+![image](https://github.com/deeplearning-llm/S9-Assignment/assets/135349271/21588cc0-fe99-41a2-95a1-ab64b1f1829a)
+
+
 
 
 
